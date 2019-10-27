@@ -55,7 +55,7 @@ pre   {
   font-size: 100%
 }
 .tt   {
-  font-weight: bold;
+  font-weight: normal;
   font-family: Courier new, monospace;
   font-size: 100%
 }
@@ -77,7 +77,7 @@ A:hover {
 }
 dt {
   text-align: left;
-  font-weight: bold
+  font-weight: normal
 }
 dd {
   text-align: left
@@ -102,12 +102,12 @@ dd {
 }
 .cbad   {
   color: #C00070;
-  font-weight: bold;
+  font-weight: normal;
   font-family: Courier new, monospace
 }
 .cppgood   {
   color: #702400;
-  font-weight: bold;
+  font-weight: normal;
   font-family: Courier new, monospace
 }
 .black   {
@@ -197,7 +197,7 @@ dd {
   text-align: center
 }
 .arrow {
-  font-weight: bold;
+  font-weight: normal;
   font-family: Arial, sans-serif
 }
 .lic {
