@@ -50,7 +50,7 @@ th {
   background-color: #D0D0D0;
 }
 pre   {
-  font-weight: bold;
+  font-weight: normal;
   font-family: Courier new, monospace;
   font-size: 100%
 }
@@ -95,9 +95,9 @@ dd {
   font-weight: bolder;
   font-size: 150%
 }
-.c   {
+.shell   {
   color: #702400;
-  font-weight: bold;
+  font-weight: normal;
   font-family: Courier new, monospace
 }
 .cbad   {
